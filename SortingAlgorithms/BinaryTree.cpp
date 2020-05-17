@@ -1,3 +1,11 @@
+///<summery>
+///This is the binary tree implementations foung on <ref>https://geekesforgeeks.com</ref>
+///</summery>
+///<remarks>
+///	I used this as refrence for my assumptions
+/// needless to say my assumptions where mostly wrong
+///</remarks>
+
 // CPP program to construct binary  
 // tree from given array in level 
 // order fashion Tree Node 
